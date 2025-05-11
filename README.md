@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# GB Development
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GB Development es una empresa dedicada al desarrollo web y soluciones digitales. Este repositorio contiene el código fuente de nuestro sitio web principal, que muestra los servicios que ofrecemos, proyectos recientes, testimonios de clientes y más.
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+GB Development ofrece soluciones de diseño y desarrollo web personalizadas para pequeñas y medianas empresas. Nuestro objetivo es ayudar a nuestros clientes a llevar su presencia online al siguiente nivel mediante sitios web funcionales, atractivos y optimizados para la experiencia del usuario.
 
-### `npm start`
+## Características
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Diseño web moderno y responsive.
+- Desarrollo de sitios web a medida.
+- Servicios de optimización SEO.
+- Implementación de soluciones digitales personalizadas.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologías Utilizadas
 
-### `npm test`
+Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Framework CSS (por ejemplo, Bootstrap o Tailwind CSS, si usas alguno)
+- Herramientas de desarrollo (por ejemplo, Visual Studio Code)
 
-### `npm run build`
+## Instalación
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/gb-development.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Accede a la carpeta del proyecto:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+cd gb-development
+Abre el archivo index.html en tu navegador.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Uso
+Este proyecto está diseñado como un sitio web estático. Puedes modificar los archivos HTML, CSS y JavaScript para personalizar el contenido y adaptarlo a tus necesidades.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contribuciones
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Haz un fork de este repositorio.
 
-## Learn More
+Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Haz push a tu rama (git push origin feature/nueva-funcionalidad).
 
-### Code Splitting
+Crea un pull request describiendo tus cambios.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Licencia
+Este proyecto está bajo la licencia MIT - consulta el archivo LICENSE para más detalles.
 
-### Analyzing the Bundle Size
+Contacto
+Si tienes preguntas o quieres saber más sobre nuestros servicios, no dudes en contactarnos:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Email: gbdevelopment@gmail.com
 
-### Making a Progressive Web App
+Teléfono: +34610300328
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Solo tienes que copiar este contenido y pegarlo en el archivo `README.md` de tu repositorio.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Si necesitas ayuda con alguna otra parte, ¡avísame!
